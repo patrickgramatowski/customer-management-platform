@@ -12,7 +12,7 @@ pip install django django-filter pillow
 ```
 
 #### Technologies
-Django 3.1.3 and Bootstrap 4
+Python 3.8.3, Django 3.1.3 and Bootstrap 4
 
 ##### Sources
 This app is inspired by Dennis Ivy "Crash Course".
