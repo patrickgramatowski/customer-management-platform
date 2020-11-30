@@ -1,7 +1,7 @@
 ![github](https://user-images.githubusercontent.com/63557278/100528219-90fc0880-31da-11eb-8efd-df6b8f7a2fc0.png)
 
 # Customer management platform
-Customer management platform built with Django
+Customer management platform built in Django
 
 ## Introduction
 Using CMP you can manage customers and orders in easy way.
