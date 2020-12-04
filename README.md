@@ -1,4 +1,4 @@
-https://travis-ci.org/patrickgramatowski/customer-management-platform.svg?branch=master
+[![Build Status](https://travis-ci.org/patrickgramatowski/customer-management-platform.svg?branch=master)](https://travis-ci.org/patrickgramatowski/customer-management-platform)
 
 ![github](https://user-images.githubusercontent.com/63557278/100528219-90fc0880-31da-11eb-8efd-df6b8f7a2fc0.png)
 
