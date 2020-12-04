@@ -9,6 +9,6 @@ env:
 install:
  - pipenv install
  
- scripts:
+scripts:
   - python manage.py test
   
