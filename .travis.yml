@@ -1,4 +1,13 @@
 language: python
-rvm:
- - 3.8.3
- - django
+
+python:
+ - "3.8.3"
+
+env: 
+ - SECRET_KEY = 'z##3)1!6mx22)c%_^kv1g6tr7mz)y#)es5t&djqexkbv1)rh-3'
+
+install:
+ - pipenv install
+ 
+ scripts:
+  - python manage.py test
